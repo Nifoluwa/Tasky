@@ -20,9 +20,9 @@ async def say_hello():
         return {
               "status": "success",
               "user": {
-                "email": "<your email>",
-                "name": "<your full name>",
-                "stack": "<your backend stack>"
+                "email": "kikiopeawotile@gmail.com",
+                "name": "Kiki Awotile",
+                "stack": "Python/FastAPI"
               },
               "timestamp": time,
               "fact": f"{fact}"
